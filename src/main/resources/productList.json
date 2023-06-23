@@ -1,0 +1,1911 @@
+[
+  {
+    "_id": "6489f4a18153c6d9ca90542f",
+    "index": 0,
+    "guid": "aeb9da05-1f56-4043-8008-5fbcbfaf4573",
+    "price": 689.73,
+    "discount": 16,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 6,
+    "rating": 3.9,
+    "name": "Product name 0",
+    "about": "Occaecat officia sit qui deserunt eu anim esse ullamco sunt consectetur occaecat. Qui nulla do sunt qui cillum consequat. Magna esse aute elit irure aliquip ipsum est nisi dolor exercitation non laboris.\r\n",
+    "tags": [
+      "amet",
+      "deserunt"
+    ]
+  },
+  {
+    "_id": "6489f4a14d2abf3aee959057",
+    "index": 1,
+    "guid": "4ac1d2b7-0010-4d70-be08-6500bc71ec39",
+    "price": 759.02,
+    "discount": 61,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 7,
+    "rating": 4.6,
+    "name": "Product name 1",
+    "about": "Quis et magna quis eiusmod ullamco. Eiusmod labore enim occaecat sunt reprehenderit duis aliqua eiusmod. Id reprehenderit mollit ut dolor incididunt commodo quis. Officia ex eu officia esse ut in esse anim sunt do ex duis tempor sit.\r\n",
+    "tags": [
+      "fugiat",
+      "dolor",
+      "occaecat",
+      "proident",
+      "laborum"
+    ]
+  },
+  {
+    "_id": "6489f4a19c82ac5fb8e98b1b",
+    "index": 2,
+    "guid": "864e8c72-40d3-4941-914b-68e6eab03753",
+    "price": 921.74,
+    "discount": 42,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 4,
+    "rating": 1.3,
+    "name": "Product name 2",
+    "about": "Exercitation dolor minim in veniam fugiat aliquip. Aliquip Lorem quis qui anim cillum velit eu eiusmod officia anim aliqua ut esse. Et nostrud nostrud voluptate Lorem eu labore occaecat occaecat. Id cillum laborum voluptate laborum nulla aute mollit cillum ex deserunt eu consectetur. Ipsum et aliquip reprehenderit proident occaecat aliqua deserunt aliquip sit. Est duis amet sint excepteur. Ea aute laboris irure culpa reprehenderit non ipsum proident veniam veniam duis nulla consequat pariatur.\r\n",
+    "tags": [
+      "est",
+      "consectetur",
+      "pariatur",
+      "do",
+      "eu",
+      "et"
+    ]
+  },
+  {
+    "_id": "6489f4a1dc2084f65d3d9a84",
+    "index": 3,
+    "guid": "84810f87-b2b9-4f56-9c29-2a66f157a9ec",
+    "price": 89.79,
+    "discount": 43,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 3,
+    "rating": 2.8,
+    "name": "Product name 3",
+    "about": "Elit sint tempor enim fugiat nisi consectetur ea adipisicing velit mollit ut enim commodo. Velit ut amet excepteur consectetur eu. Nostrud est est veniam consectetur nisi qui excepteur labore consequat ut laborum dolor est ea. Labore eiusmod ipsum aute ad mollit nulla nostrud incididunt cillum minim tempor. In adipisicing elit duis exercitation qui consequat nulla. Proident excepteur cupidatat veniam et excepteur cupidatat minim velit ut minim duis. Officia anim sit deserunt voluptate in velit ipsum minim laboris commodo incididunt fugiat.\r\n",
+    "tags": [
+      "est",
+      "quis",
+      "magna",
+      "aute"
+    ]
+  },
+  {
+    "_id": "6489f4a125d588021f2c480f",
+    "index": 4,
+    "guid": "d28e2ee0-65f5-4e1c-99b8-1a47efdac6a5",
+    "price": 33.98,
+    "discount": 8,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 1.2,
+    "name": "Product name 4",
+    "about": "Est ullamco incididunt velit cupidatat enim mollit. Aliquip amet enim amet dolor ut dolore elit dolore nostrud. Sit id voluptate excepteur reprehenderit eu aliquip esse ipsum pariatur. Et sit consequat laborum excepteur. Ea pariatur nostrud irure fugiat ut ut laboris veniam. Fugiat cillum aliqua Lorem velit commodo consequat nulla Lorem cupidatat pariatur qui.\r\n",
+    "tags": [
+      "pariatur",
+      "pariatur",
+      "magna",
+      "aliqua",
+      "nostrud"
+    ]
+  },
+  {
+    "_id": "6489f4a19bd35a15916df55e",
+    "index": 5,
+    "guid": "4aa9bbd0-9287-4fc1-b76f-1a967fc7311f",
+    "price": 923.12,
+    "discount": 40,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 4,
+    "rating": 2.4,
+    "name": "Product name 5",
+    "about": "Nostrud nulla quis nulla labore cupidatat cupidatat ad ut anim mollit excepteur officia. Amet fugiat pariatur fugiat id tempor ex cillum sit deserunt adipisicing. Voluptate proident culpa non dolore deserunt quis ut pariatur do fugiat.\r\n",
+    "tags": [
+      "sit",
+      "veniam",
+      "ex",
+      "consectetur",
+      "aliqua",
+      "nisi"
+    ]
+  },
+  {
+    "_id": "6489f4a110a5f468e8196093",
+    "index": 6,
+    "guid": "aabdfb5f-d239-4b8b-a625-a880fe15a0d7",
+    "price": 92.64,
+    "discount": 65,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 2,
+    "rating": 3.7,
+    "name": "Product name 6",
+    "about": "Ea ea duis incididunt pariatur pariatur laboris et nisi id exercitation laborum. Ad duis cillum adipisicing excepteur tempor minim irure eiusmod eu esse adipisicing. Proident ullamco et ea amet Lorem.\r\n",
+    "tags": [
+      "Lorem",
+      "Lorem",
+      "voluptate",
+      "occaecat",
+      "do",
+      "aliqua",
+      "aliqua"
+    ]
+  },
+  {
+    "_id": "6489f4a1b8be4edd7c8c15a0",
+    "index": 7,
+    "guid": "37ec99dd-8939-4bd5-9e54-f86ad6842c57",
+    "price": 159.42,
+    "discount": 0,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 2,
+    "rating": 1.7,
+    "name": "Product name 7",
+    "about": "Dolor dolor ad sunt amet eiusmod aute laborum nostrud consequat quis do do laboris cupidatat. Adipisicing ad velit proident ad eiusmod pariatur qui do. Nisi pariatur cupidatat labore occaecat deserunt enim nisi aliqua enim duis. Veniam amet aliquip eiusmod non anim non aliqua. Deserunt sit voluptate enim ex ad ullamco officia commodo qui. Velit culpa cillum reprehenderit ex ad consequat ipsum mollit.\r\n",
+    "tags": [
+      "elit",
+      "nulla",
+      "occaecat",
+      "irure",
+      "quis",
+      "qui",
+      "aliqua"
+    ]
+  },
+  {
+    "_id": "6489f4a1e611d88056d82dff",
+    "index": 8,
+    "guid": "3c0f947f-69cd-4703-a663-df02596a7b21",
+    "price": 868.33,
+    "discount": 62,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 0,
+    "rating": 3.7,
+    "name": "Product name 8",
+    "about": "Non ipsum enim veniam amet enim sit qui reprehenderit qui fugiat. Qui ipsum proident ea consequat. Sunt et sint quis velit sunt commodo quis quis laborum nulla fugiat do. Ex fugiat voluptate in proident fugiat officia anim voluptate. Consequat id do duis et veniam nostrud et nulla.\r\n",
+    "tags": [
+      "minim",
+      "laborum",
+      "ut",
+      "et",
+      "in"
+    ]
+  },
+  {
+    "_id": "6489f4a1974e0c1d577d4546",
+    "index": 9,
+    "guid": "2686698b-e938-4242-b4e7-bf835022daaf",
+    "price": 699.69,
+    "discount": 55,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 2.3,
+    "name": "Product name 9",
+    "about": "Ex consequat consequat esse cupidatat fugiat. Magna ullamco eiusmod aliqua Lorem ullamco voluptate labore anim minim Lorem minim. Voluptate Lorem commodo eiusmod elit. Velit quis velit anim tempor cillum ullamco excepteur non anim. Dolore in ipsum enim qui Lorem labore elit cupidatat Lorem adipisicing mollit. Consectetur commodo aute ipsum quis eiusmod sint mollit duis ad laboris fugiat cillum. Lorem labore magna veniam incididunt nostrud ex velit eu occaecat veniam sunt ex consectetur voluptate.\r\n",
+    "tags": [
+      "dolore",
+      "aute"
+    ]
+  },
+  {
+    "_id": "6489f4a1bac38ccab2907371",
+    "index": 10,
+    "guid": "bdd8e3e8-583e-41cc-b847-7d04a4c6e924",
+    "price": 817.01,
+    "discount": 39,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 5,
+    "rating": 3.6,
+    "name": "Product name 10",
+    "about": "Veniam aliquip nostrud consectetur nisi irure consectetur reprehenderit minim labore id. Cillum ut nulla aute culpa ex qui anim tempor. Enim incididunt incididunt esse aliqua ut ea deserunt eu magna occaecat quis anim.\r\n",
+    "tags": [
+      "ad",
+      "amet",
+      "ullamco"
+    ]
+  },
+  {
+    "_id": "6489f4a1ece6a60bb13e280e",
+    "index": 11,
+    "guid": "4a224271-8934-44d1-bd54-54d1ac3aae4a",
+    "price": 681.67,
+    "discount": 51,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 7,
+    "rating": 3.9,
+    "name": "Product name 11",
+    "about": "Deserunt incididunt incididunt excepteur mollit pariatur id laborum qui. Consequat ea laboris commodo amet. Dolor ullamco ipsum veniam excepteur labore dolore reprehenderit velit sunt sit commodo ad fugiat. Esse mollit deserunt duis excepteur mollit aute. Aute incididunt sunt in eiusmod nulla esse voluptate aute ut culpa nisi. Voluptate incididunt dolor culpa dolore eu cillum nostrud ex consectetur officia excepteur sint elit.\r\n",
+    "tags": [
+      "exercitation",
+      "est",
+      "et",
+      "irure",
+      "consectetur",
+      "duis",
+      "occaecat"
+    ]
+  },
+  {
+    "_id": "6489f4a1a28663199c8ecfff",
+    "index": 12,
+    "guid": "e52fa3be-7d62-492a-ae95-0490317a702b",
+    "price": 11.61,
+    "discount": 16,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 10,
+    "rating": 2.9,
+    "name": "Product name 12",
+    "about": "Commodo ad aute officia ad labore ex nisi reprehenderit. Minim in nisi et elit consequat quis amet consequat fugiat consectetur sunt. Sunt nisi esse laborum amet proident ex ea aute commodo irure deserunt officia sunt. Reprehenderit do cillum velit laborum ipsum incididunt ullamco nostrud sunt minim qui. Exercitation esse aute nulla non in officia adipisicing deserunt proident qui in id cillum. Fugiat officia eiusmod consequat irure.\r\n",
+    "tags": [
+      "nisi",
+      "pariatur",
+      "ipsum",
+      "consectetur",
+      "dolor",
+      "enim",
+      "et",
+      "non"
+    ]
+  },
+  {
+    "_id": "6489f4a128d0fe148abe16a1",
+    "index": 13,
+    "guid": "769a6554-a9a8-4946-8158-587dd586baa2",
+    "price": 333.95,
+    "discount": 53,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 3,
+    "rating": 1.7,
+    "name": "Product name 13",
+    "about": "Irure nulla aliquip sit cillum ullamco nisi consequat dolore id commodo exercitation anim mollit. Adipisicing et veniam ut laboris minim ex id. Commodo elit fugiat et duis duis consectetur proident dolor laborum laborum. Nisi voluptate deserunt elit sit non. Mollit adipisicing enim laboris ipsum nostrud ullamco cillum duis cillum. Eu dolore est nostrud laboris est Lorem nostrud dolore. Dolor sit do esse officia adipisicing irure ad aliqua voluptate laboris ad do magna anim.\r\n",
+    "tags": [
+      "amet",
+      "sint",
+      "mollit",
+      "id",
+      "mollit",
+      "excepteur",
+      "nostrud"
+    ]
+  },
+  {
+    "_id": "6489f4a1ca20e1dc9c358de4",
+    "index": 14,
+    "guid": "9367cd94-88ea-44f3-a519-19eaeab9047d",
+    "price": 14.14,
+    "discount": 69,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 9,
+    "rating": 4.3,
+    "name": "Product name 14",
+    "about": "Exercitation non magna culpa pariatur aliquip esse. Deserunt nisi labore enim dolore. Id commodo irure fugiat adipisicing aliquip sunt ea non elit laborum. Consequat sunt sint excepteur Lorem aliquip reprehenderit Lorem consectetur. Ea et dolor anim minim anim tempor. Deserunt cupidatat aliqua sit minim quis deserunt dolore nostrud non labore amet quis ea eu. Esse excepteur ex commodo labore cillum ea nulla amet non quis.\r\n",
+    "tags": [
+      "velit",
+      "irure",
+      "nostrud",
+      "aliquip",
+      "consequat",
+      "tempor",
+      "sunt"
+    ]
+  },
+  {
+    "_id": "6489f4a155331edbb3409fe1",
+    "index": 15,
+    "guid": "7df533f7-5270-469e-b064-22d1fe548c7b",
+    "price": 965,
+    "discount": 18,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 0,
+    "rating": 2.1,
+    "name": "Product name 15",
+    "about": "Officia incididunt tempor incididunt aliqua culpa eiusmod adipisicing ullamco ea reprehenderit dolor deserunt. Anim cillum commodo sint nisi aute esse quis tempor consequat laboris ex. Ipsum cillum quis ullamco ex minim qui consectetur nisi. Laboris est ullamco amet aliqua excepteur officia nostrud mollit fugiat. Lorem eu Lorem aliquip consequat laboris officia minim culpa mollit officia cupidatat non eiusmod.\r\n",
+    "tags": [
+      "mollit",
+      "quis",
+      "aliquip",
+      "qui",
+      "commodo"
+    ]
+  },
+  {
+    "_id": "6489f4a1b21bf482d017cc48",
+    "index": 16,
+    "guid": "17d7816a-ced8-4151-b04c-b395f35813e3",
+    "price": 165.54,
+    "discount": 24,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 3.6,
+    "name": "Product name 16",
+    "about": "Sunt sint anim tempor officia culpa aliqua minim consequat aliqua incididunt officia est. Exercitation dolor culpa ad laboris do non nostrud exercitation duis veniam est dolor duis irure. Velit in laborum quis cupidatat esse labore. Exercitation id commodo ut elit est velit voluptate labore id exercitation dolor eiusmod elit labore. Laboris do aliquip excepteur exercitation sit reprehenderit excepteur qui id veniam sit id. Anim cillum minim duis labore do sit magna officia nisi excepteur.\r\n",
+    "tags": [
+      "enim",
+      "aliquip",
+      "nostrud",
+      "duis",
+      "tempor",
+      "adipisicing"
+    ]
+  },
+  {
+    "_id": "6489f4a18ea7a63445012a86",
+    "index": 17,
+    "guid": "b49dffaa-aaeb-45ef-865d-858ec678c0a5",
+    "price": 909.88,
+    "discount": 36,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 7,
+    "rating": 1.7,
+    "name": "Product name 17",
+    "about": "Occaecat ad duis anim fugiat occaecat excepteur labore ut culpa. Aute duis fugiat consectetur eiusmod pariatur laboris velit ea culpa aliquip. Deserunt aute esse tempor esse ea enim fugiat esse ad ad reprehenderit excepteur consectetur velit. Adipisicing consectetur et deserunt sunt enim dolore quis. Esse non eiusmod ut reprehenderit velit eiusmod culpa dolor pariatur officia laborum excepteur. Sit eu minim minim deserunt nisi eiusmod sunt culpa ullamco. Dolore veniam Lorem sit enim cillum ut deserunt qui eu et commodo.\r\n",
+    "tags": [
+      "sunt",
+      "esse",
+      "amet",
+      "ad",
+      "minim",
+      "culpa"
+    ]
+  },
+  {
+    "_id": "6489f4a1571676a7b3ffb95c",
+    "index": 18,
+    "guid": "c0135161-002a-4381-bff6-2258268fa3dd",
+    "price": 982.9,
+    "discount": 24,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 9,
+    "rating": 2.5,
+    "name": "Product name 18",
+    "about": "Nulla quis magna mollit nostrud excepteur sit ea eu esse. Ipsum in do ad labore veniam culpa. Laboris aliqua reprehenderit aute dolor incididunt non deserunt elit eiusmod fugiat. Deserunt ullamco eu laborum voluptate do. Eu mollit do elit enim cupidatat aliquip dolor sit non cupidatat commodo tempor. Veniam commodo incididunt culpa laboris nostrud quis magna laborum anim commodo amet occaecat sunt officia.\r\n",
+    "tags": [
+      "veniam",
+      "culpa",
+      "tempor",
+      "aliquip",
+      "non",
+      "exercitation",
+      "culpa",
+      "sit"
+    ]
+  },
+  {
+    "_id": "6489f4a1e819a37981f4d07d",
+    "index": 19,
+    "guid": "dd2f8980-4a93-46e8-89cd-19cd5b2c9613",
+    "price": 754.65,
+    "discount": 46,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 4.4,
+    "name": "Product name 19",
+    "about": "Esse sunt enim amet ut nostrud tempor ipsum. Esse ex excepteur quis aliquip. Magna voluptate amet aute eu est occaecat cillum sint. Exercitation aliquip ipsum aliquip sit. Sunt reprehenderit ex incididunt nisi cupidatat qui laborum reprehenderit.\r\n",
+    "tags": [
+      "excepteur",
+      "est",
+      "occaecat",
+      "excepteur"
+    ]
+  },
+  {
+    "_id": "6489f4a1aa32c41bb72117d5",
+    "index": 20,
+    "guid": "f43d7178-7ec6-47ef-997c-ea0181c23f38",
+    "price": 348.1,
+    "discount": 7,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 0,
+    "rating": 2.4,
+    "name": "Product name 20",
+    "about": "Nisi aliquip Lorem do incididunt reprehenderit culpa ad et nostrud non mollit incididunt irure. Veniam quis do nisi occaecat sint deserunt cillum culpa aliquip eu sint ut. Est mollit dolor eiusmod incididunt ut aliqua velit aliqua pariatur velit velit laboris aliquip excepteur. Magna irure est ex aliqua qui do dolor reprehenderit consequat ut aliquip laboris voluptate. Elit reprehenderit duis incididunt non nulla aliquip duis ea est. Eu deserunt mollit sunt culpa in reprehenderit dolore ex. Labore sit anim labore aute aute et consequat eiusmod eiusmod incididunt dolore duis enim anim.\r\n",
+    "tags": [
+      "proident",
+      "minim",
+      "officia",
+      "ad",
+      "ipsum",
+      "labore"
+    ]
+  },
+  {
+    "_id": "6489f4a19746648c8b2e5cc6",
+    "index": 21,
+    "guid": "891547ed-5ace-4660-b70c-987764a6d0f4",
+    "price": 965.53,
+    "discount": 15,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 9,
+    "rating": 2,
+    "name": "Product name 21",
+    "about": "Dolor velit ex sit nostrud mollit cillum occaecat tempor. Do est ut ex ullamco. Velit nisi labore commodo ullamco nisi enim sunt irure nulla eu deserunt mollit. In culpa magna occaecat laboris adipisicing sint excepteur. In et reprehenderit excepteur sit dolor esse sint sunt officia est officia sunt consequat. Sit do elit ipsum laborum.\r\n",
+    "tags": [
+      "esse",
+      "exercitation",
+      "labore",
+      "sit",
+      "consequat",
+      "ad",
+      "ipsum",
+      "cillum"
+    ]
+  },
+  {
+    "_id": "6489f4a170d9cae1fbb78b62",
+    "index": 22,
+    "guid": "5efc52ed-56f9-4e81-8aa9-1e3bd73bc7cd",
+    "price": 563.32,
+    "discount": 70,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 3.5,
+    "name": "Product name 22",
+    "about": "Dolore aliqua cillum exercitation quis esse sunt sit ea exercitation sunt labore magna. In nisi excepteur aute irure quis commodo consectetur irure nisi anim adipisicing nostrud ullamco. Magna deserunt ea ex duis laboris et cupidatat ea nulla proident consequat ullamco laborum officia. Ad Lorem magna non commodo ea elit elit labore quis velit exercitation id. Deserunt proident sunt consectetur occaecat occaecat id duis qui est sit commodo aute dolor. Ad id reprehenderit veniam consectetur duis ullamco. Proident irure minim incididunt ut Lorem officia minim proident fugiat culpa incididunt.\r\n",
+    "tags": [
+      "qui",
+      "nisi",
+      "tempor",
+      "enim"
+    ]
+  },
+  {
+    "_id": "6489f4a18657c93f6bab0e57",
+    "index": 23,
+    "guid": "3ead0d15-ee51-437d-a4b9-b34e31d7544d",
+    "price": 33.48,
+    "discount": 51,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 10,
+    "rating": 2.7,
+    "name": "Product name 23",
+    "about": "Magna ut cillum elit adipisicing adipisicing quis magna eu non cillum aute. Irure laboris consequat reprehenderit quis commodo labore commodo cupidatat aute officia. Excepteur labore excepteur labore officia exercitation esse. Esse velit enim elit Lorem reprehenderit excepteur enim sint qui anim consectetur enim cillum.\r\n",
+    "tags": [
+      "excepteur",
+      "nulla",
+      "eu",
+      "esse",
+      "ipsum",
+      "eiusmod",
+      "consequat",
+      "nisi"
+    ]
+  },
+  {
+    "_id": "6489f4a1a74f6dc08b6e90ab",
+    "index": 24,
+    "guid": "b3ee3f22-01ef-4c0f-a13a-ece42317d629",
+    "price": 216.39,
+    "discount": 63,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 10,
+    "rating": 2,
+    "name": "Product name 24",
+    "about": "Nostrud ea incididunt aliquip pariatur incididunt aute amet et. Tempor sit nisi voluptate consectetur commodo nulla eiusmod mollit fugiat. Fugiat et nisi quis sint sit sunt deserunt dolore non do id. Nulla quis dolor qui nisi. Consequat duis duis reprehenderit cupidatat consequat sit laborum velit nulla esse consectetur proident exercitation. Sint aliqua consequat non consequat.\r\n",
+    "tags": [
+      "id",
+      "cillum",
+      "laboris"
+    ]
+  },
+  {
+    "_id": "6489f4a14914810533527385",
+    "index": 25,
+    "guid": "5ef0f1e5-33d6-4faf-b876-7a1321a82f5c",
+    "price": 86.99,
+    "discount": 45,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 5,
+    "rating": 1,
+    "name": "Product name 25",
+    "about": "Aliquip reprehenderit minim enim voluptate in. Qui aute sit aliqua nisi sit est irure culpa non anim. Do commodo excepteur aliquip velit et veniam eu occaecat ad enim. Incididunt reprehenderit magna commodo ea consequat ullamco ad nulla laborum irure veniam occaecat aliqua minim.\r\n",
+    "tags": [
+      "incididunt",
+      "elit"
+    ]
+  },
+  {
+    "_id": "6489f4a13f4a45a6f02bfdd9",
+    "index": 26,
+    "guid": "65b8555d-eb70-44ac-ae6d-87427e60393b",
+    "price": 975.13,
+    "discount": 3,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 4,
+    "rating": 3.2,
+    "name": "Product name 26",
+    "about": "In occaecat pariatur laboris Lorem. Anim consectetur est cillum Lorem tempor. Aute nostrud adipisicing ut ullamco incididunt. Consectetur officia est magna ad fugiat sint dolor deserunt proident excepteur laboris fugiat. Nisi labore veniam est consequat ex. Id enim aliquip consectetur excepteur.\r\n",
+    "tags": [
+      "reprehenderit",
+      "consectetur",
+      "deserunt"
+    ]
+  },
+  {
+    "_id": "6489f4a153a8e3214b11ab94",
+    "index": 27,
+    "guid": "ca7ab50b-87fa-4fd3-9ec1-3454686381f1",
+    "price": 640.1,
+    "discount": 14,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 9,
+    "rating": 4,
+    "name": "Product name 27",
+    "about": "Qui cillum Lorem veniam magna voluptate aliqua. Tempor fugiat incididunt incididunt non qui. Ad fugiat ad ea in nulla cupidatat amet. Non ad labore laborum Lorem aliqua deserunt ullamco officia anim commodo. Laboris qui qui id exercitation fugiat dolor anim ad non aliqua.\r\n",
+    "tags": [
+      "deserunt",
+      "incididunt",
+      "irure",
+      "magna",
+      "et",
+      "ea"
+    ]
+  },
+  {
+    "_id": "6489f4a164208c096d98f9b4",
+    "index": 28,
+    "guid": "5f8345e4-c59f-4797-95f0-64074f04e0be",
+    "price": 582.04,
+    "discount": 21,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 5,
+    "rating": 4.4,
+    "name": "Product name 28",
+    "about": "Nisi non ullamco sit culpa commodo consequat eu fugiat enim pariatur velit. Aliquip cillum proident et consectetur non proident quis voluptate labore consequat anim amet. Veniam excepteur laboris excepteur enim sit nulla eiusmod reprehenderit eiusmod incididunt. Consequat proident qui occaecat ut mollit minim do esse duis consequat. Magna et enim proident dolore occaecat sit enim enim aute.\r\n",
+    "tags": [
+      "in",
+      "officia",
+      "et",
+      "sit",
+      "sunt",
+      "cupidatat",
+      "sunt"
+    ]
+  },
+  {
+    "_id": "6489f4a1318dec1af3238d89",
+    "index": 29,
+    "guid": "c86c4867-168b-4730-953d-65c21a6117c9",
+    "price": 871.97,
+    "discount": 9,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 2,
+    "rating": 4.6,
+    "name": "Product name 29",
+    "about": "Laboris id sit nostrud sunt sit aliqua quis enim ad officia officia velit. Pariatur esse irure cupidatat irure aliquip dolore quis nulla. Elit enim tempor anim sit eiusmod. Dolor veniam labore voluptate deserunt ea minim sit.\r\n",
+    "tags": [
+      "elit",
+      "reprehenderit"
+    ]
+  },
+  {
+    "_id": "6489f4a12ee6038125aabbee",
+    "index": 30,
+    "guid": "93194fb3-7ded-42a0-b036-9397e220aec3",
+    "price": 404.77,
+    "discount": 35,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 0,
+    "rating": 3.2,
+    "name": "Product name 30",
+    "about": "Officia ad est ad dolore proident aute. Commodo magna sint fugiat consequat tempor. Ex ullamco magna eu veniam eiusmod qui laborum incididunt labore eu. Cupidatat culpa in labore nulla ex nostrud laboris aute. Excepteur cupidatat excepteur laboris fugiat. Quis ullamco ullamco reprehenderit incididunt aute ut adipisicing aliquip eu ut.\r\n",
+    "tags": [
+      "sunt",
+      "reprehenderit"
+    ]
+  },
+  {
+    "_id": "6489f4a1dbbcd772f24a8e0e",
+    "index": 31,
+    "guid": "1d6a1996-65d0-4885-8bde-62732540e7ee",
+    "price": 310.9,
+    "discount": 50,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 4.1,
+    "name": "Product name 31",
+    "about": "Ea est enim laboris dolore laborum minim. Occaecat ex elit ad ut commodo fugiat duis voluptate nostrud voluptate commodo commodo eu. Eu proident in dolore do deserunt do consequat. Deserunt in ipsum officia excepteur ullamco nostrud velit aliqua sit dolore.\r\n",
+    "tags": [
+      "nostrud",
+      "sunt",
+      "ut",
+      "qui",
+      "nulla",
+      "labore",
+      "quis",
+      "ad"
+    ]
+  },
+  {
+    "_id": "6489f4a19204d23c1505f261",
+    "index": 32,
+    "guid": "f0c99bd8-ff24-4136-9149-5402679df32b",
+    "price": 999.38,
+    "discount": 62,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 4.7,
+    "name": "Product name 32",
+    "about": "Ullamco id et deserunt officia non laborum quis eu laboris tempor nostrud. Aute duis reprehenderit anim amet enim eu cillum do ut. Adipisicing non dolore elit consectetur magna. Deserunt nulla cillum fugiat pariatur enim est. Sunt pariatur ad pariatur eu non deserunt amet incididunt anim enim. Ipsum reprehenderit consequat deserunt ad velit Lorem sint ut sit consequat excepteur deserunt adipisicing. Ullamco occaecat irure consectetur laboris cupidatat fugiat tempor aliquip.\r\n",
+    "tags": [
+      "sint",
+      "occaecat",
+      "tempor",
+      "in"
+    ]
+  },
+  {
+    "_id": "6489f4a15ea47b6891d2778e",
+    "index": 33,
+    "guid": "cc767d19-5406-4ed7-ab47-a454546388b1",
+    "price": 568.41,
+    "discount": 63,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 5,
+    "rating": 3.8,
+    "name": "Product name 33",
+    "about": "Sit nostrud minim culpa culpa aliquip veniam exercitation duis occaecat cupidatat in in ea qui. Aute ea id aliquip irure enim deserunt non ad fugiat proident magna sunt enim ullamco. Duis sunt est commodo nostrud ullamco sit eiusmod Lorem. Pariatur velit ea culpa sit sunt ex commodo excepteur consectetur adipisicing ea cupidatat deserunt. Veniam eu aute commodo nulla commodo aliqua deserunt adipisicing deserunt.\r\n",
+    "tags": [
+      "magna",
+      "proident",
+      "in",
+      "pariatur",
+      "tempor",
+      "fugiat"
+    ]
+  },
+  {
+    "_id": "6489f4a1d27dffba7fb58965",
+    "index": 34,
+    "guid": "bce88248-3b35-4549-88de-f122d33bd328",
+    "price": 483.52,
+    "discount": 27,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 9,
+    "rating": 3.4,
+    "name": "Product name 34",
+    "about": "Occaecat commodo sunt eu voluptate pariatur commodo officia. Qui duis ad dolore ex exercitation ex. Consectetur Lorem quis ad nulla eu pariatur ullamco officia velit qui exercitation proident ex sit. Sit labore excepteur dolore nostrud culpa id do nisi. Elit aliqua elit do aute deserunt laboris voluptate sint. Culpa consequat mollit ullamco in velit.\r\n",
+    "tags": [
+      "aliquip",
+      "do"
+    ]
+  },
+  {
+    "_id": "6489f4a127f3a6bee4125d87",
+    "index": 35,
+    "guid": "3418acec-d44c-48b8-a2e2-fe0940f21a53",
+    "price": 836.68,
+    "discount": 62,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 4,
+    "rating": 4.5,
+    "name": "Product name 35",
+    "about": "Id nisi sunt officia officia. Ut aute reprehenderit in qui Lorem consequat id voluptate pariatur cupidatat deserunt occaecat consectetur occaecat. Ullamco elit incididunt sint laborum deserunt velit sit pariatur ex sint. Mollit in veniam in magna do officia non ut dolore eu culpa deserunt. Ad do proident quis ex ullamco sit ex magna dolor anim consectetur anim aliquip cupidatat.\r\n",
+    "tags": [
+      "cupidatat",
+      "dolore"
+    ]
+  },
+  {
+    "_id": "6489f4a1f6a2d931793dd89d",
+    "index": 36,
+    "guid": "98337d7d-c065-4871-acfd-f5b6f636a32f",
+    "price": 763.14,
+    "discount": 13,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 2.1,
+    "name": "Product name 36",
+    "about": "Tempor dolor qui dolor eiusmod cillum. Nostrud non non qui qui qui nostrud incididunt laboris ullamco in exercitation. Eu pariatur consectetur adipisicing ea non proident dolore mollit ut. Eu nisi officia fugiat magna esse ex cupidatat excepteur. Occaecat id officia tempor excepteur.\r\n",
+    "tags": [
+      "elit",
+      "fugiat"
+    ]
+  },
+  {
+    "_id": "6489f4a13ae15995bca755bf",
+    "index": 37,
+    "guid": "8d034aff-1756-435b-b81f-f0891bc44c62",
+    "price": 365.77,
+    "discount": 65,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 3,
+    "rating": 2.6,
+    "name": "Product name 37",
+    "about": "Et et nulla exercitation qui deserunt id. Amet velit cillum qui reprehenderit tempor officia quis non ex aute Lorem. Consectetur aliquip labore exercitation consequat eu minim laboris proident nisi do minim irure. Eiusmod elit nostrud culpa tempor cupidatat ex ullamco ex.\r\n",
+    "tags": [
+      "consequat",
+      "veniam",
+      "in",
+      "proident",
+      "et",
+      "consectetur",
+      "tempor"
+    ]
+  },
+  {
+    "_id": "6489f4a18c809cc129b336c0",
+    "index": 38,
+    "guid": "7a7b3d07-dc99-4024-9688-173bf6f7025a",
+    "price": 598.63,
+    "discount": 24,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 9,
+    "rating": 2.4,
+    "name": "Product name 38",
+    "about": "Esse occaecat deserunt duis voluptate occaecat reprehenderit excepteur qui ut. Ipsum Lorem tempor commodo qui Lorem eu labore dolore commodo. Reprehenderit elit duis duis eiusmod fugiat cupidatat. Elit est commodo in quis. Dolore consequat dolore id commodo. Id et velit veniam nisi deserunt dolore labore irure eiusmod cillum consequat non ex.\r\n",
+    "tags": [
+      "cillum",
+      "nostrud",
+      "laboris"
+    ]
+  },
+  {
+    "_id": "6489f4a100bcd961ec91a721",
+    "index": 39,
+    "guid": "e6ab837e-4a7c-4baf-bb5c-e18aa0af84ae",
+    "price": 8.16,
+    "discount": 60,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 5,
+    "rating": 1.9,
+    "name": "Product name 39",
+    "about": "Nisi proident laboris exercitation aliqua aliquip do laborum. Qui anim laboris enim commodo sint est fugiat. Aliquip ut amet reprehenderit laboris irure ea id ipsum Lorem id culpa exercitation reprehenderit.\r\n",
+    "tags": [
+      "enim",
+      "anim",
+      "nulla",
+      "sit"
+    ]
+  },
+  {
+    "_id": "6489f4a1880ce8ce4c20041b",
+    "index": 40,
+    "guid": "d81bf5e9-140a-473d-9638-f5b48e890d71",
+    "price": 937.9,
+    "discount": 19,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 3,
+    "rating": 2.7,
+    "name": "Product name 40",
+    "about": "Nulla eu dolor culpa et enim adipisicing non. Incididunt mollit reprehenderit irure laborum et nulla esse dolor laborum proident. Enim adipisicing veniam ullamco irure et excepteur in pariatur cillum esse nulla commodo anim. Aliqua excepteur labore incididunt fugiat consequat nulla aute incididunt ad ipsum. Fugiat pariatur non adipisicing esse veniam laborum labore adipisicing et exercitation officia aliquip commodo. Ea ea dolor est adipisicing labore sint.\r\n",
+    "tags": [
+      "consectetur",
+      "labore",
+      "sint"
+    ]
+  },
+  {
+    "_id": "6489f4a14e71b3694e17e369",
+    "index": 41,
+    "guid": "0d3da33d-b150-42f7-ba6a-410aa675c758",
+    "price": 634.24,
+    "discount": 63,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 5,
+    "rating": 2.9,
+    "name": "Product name 41",
+    "about": "Do ipsum dolor dolor anim dolor ipsum esse reprehenderit deserunt duis in. Esse nisi veniam est ex dolore minim consequat aliquip cillum esse amet aute nulla. Pariatur magna qui consequat minim id consequat in nulla. Voluptate minim duis in commodo sint commodo.\r\n",
+    "tags": [
+      "occaecat",
+      "et"
+    ]
+  },
+  {
+    "_id": "6489f4a140e1250ab50c1e58",
+    "index": 42,
+    "guid": "08d028a0-c092-4980-8900-6e11d1f4bf90",
+    "price": 608.74,
+    "discount": 35,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 4,
+    "rating": 3.1,
+    "name": "Product name 42",
+    "about": "Consectetur consectetur dolore minim voluptate nulla reprehenderit Lorem sint. Velit laborum commodo ea deserunt eiusmod labore duis cupidatat ipsum est consectetur enim ullamco. Veniam consequat aliquip culpa duis. Dolore ut cillum veniam adipisicing pariatur velit occaecat in sunt id deserunt anim fugiat.\r\n",
+    "tags": [
+      "anim",
+      "velit",
+      "excepteur",
+      "reprehenderit",
+      "voluptate",
+      "exercitation"
+    ]
+  },
+  {
+    "_id": "6489f4a100707d376acbe377",
+    "index": 43,
+    "guid": "49045b6b-a079-42c7-9d6f-f41dd55ecc08",
+    "price": 700.67,
+    "discount": 52,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 2.5,
+    "name": "Product name 43",
+    "about": "Enim ullamco incididunt commodo excepteur tempor voluptate adipisicing elit adipisicing enim elit elit eiusmod. Aliquip laboris elit pariatur eiusmod est eiusmod. Cillum in consectetur culpa duis nisi consequat aliquip exercitation commodo. Ut commodo eiusmod nulla aute. Minim in aliquip amet laboris duis aliquip ipsum cupidatat proident deserunt.\r\n",
+    "tags": [
+      "enim",
+      "qui",
+      "sunt",
+      "duis",
+      "officia"
+    ]
+  },
+  {
+    "_id": "6489f4a10ae8f1a814bdd589",
+    "index": 44,
+    "guid": "0e5ed820-cfaa-466f-98e3-2d9a6b869923",
+    "price": 351.98,
+    "discount": 33,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 4,
+    "rating": 4.8,
+    "name": "Product name 44",
+    "about": "Et ut velit ex enim amet deserunt consectetur incididunt aliqua non exercitation reprehenderit adipisicing. Amet dolore et sit officia. Enim fugiat ea sint dolore deserunt sit. Incididunt adipisicing fugiat eiusmod mollit labore voluptate Lorem.\r\n",
+    "tags": [
+      "laboris",
+      "ipsum",
+      "mollit",
+      "veniam"
+    ]
+  },
+  {
+    "_id": "6489f4a171cb3fd935ca5b40",
+    "index": 45,
+    "guid": "091ac7fe-fe67-4bad-af43-403187c81467",
+    "price": 213.93,
+    "discount": 8,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 1.3,
+    "name": "Product name 45",
+    "about": "Tempor anim ad cillum et sint tempor magna anim cillum non. Occaecat consequat mollit magna qui est dolor incididunt minim ullamco est excepteur elit. Reprehenderit ea reprehenderit commodo ullamco sint veniam consequat mollit.\r\n",
+    "tags": [
+      "cillum",
+      "pariatur",
+      "Lorem",
+      "laboris",
+      "fugiat",
+      "enim",
+      "consectetur"
+    ]
+  },
+  {
+    "_id": "6489f4a18a64116e55da058a",
+    "index": 46,
+    "guid": "189be0d6-e7fd-4bf2-9d56-713831ebd8b9",
+    "price": 994.81,
+    "discount": 19,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 4,
+    "rating": 2.4,
+    "name": "Product name 46",
+    "about": "Adipisicing excepteur occaecat minim nulla deserunt duis culpa. Nulla deserunt sint non magna elit proident exercitation ipsum duis dolor mollit duis ex veniam. Occaecat cillum in ex commodo qui dolor nisi duis commodo nostrud nostrud. Dolore enim anim nisi anim irure reprehenderit. Anim ullamco aliqua quis ipsum cillum velit dolore.\r\n",
+    "tags": [
+      "elit",
+      "nulla",
+      "officia",
+      "Lorem",
+      "eiusmod",
+      "minim"
+    ]
+  },
+  {
+    "_id": "6489f4a18b1785b2d1d17faa",
+    "index": 47,
+    "guid": "f21e9037-a9fa-483b-a19e-37a191808d69",
+    "price": 420.66,
+    "discount": 59,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 4.3,
+    "name": "Product name 47",
+    "about": "Culpa occaecat qui consectetur adipisicing magna sit. Non commodo aliqua culpa sunt ullamco aute ex anim ipsum consequat nisi. Dolore esse irure tempor cupidatat cillum dolor nisi occaecat id et culpa sunt. Qui aute fugiat do occaecat exercitation. Fugiat occaecat sit irure eu. Pariatur esse voluptate anim cillum exercitation commodo aliqua est laboris officia.\r\n",
+    "tags": [
+      "adipisicing",
+      "voluptate",
+      "eiusmod",
+      "culpa",
+      "deserunt",
+      "ea"
+    ]
+  },
+  {
+    "_id": "6489f4a15c56b8d69d12e00a",
+    "index": 48,
+    "guid": "8461c38d-0340-4225-9b73-b0a8ae5fcdc3",
+    "price": 180.67,
+    "discount": 29,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 3.4,
+    "name": "Product name 48",
+    "about": "Qui ipsum veniam enim sit ut excepteur. Excepteur elit eiusmod do cupidatat laboris non eiusmod velit est est esse eu. Nulla amet deserunt do dolor sunt ullamco aute minim ullamco pariatur duis et. Cupidatat pariatur commodo cupidatat laboris amet adipisicing aliqua ex labore sint. Sit quis adipisicing labore sunt eu.\r\n",
+    "tags": [
+      "cupidatat",
+      "sunt",
+      "et",
+      "do",
+      "id",
+      "occaecat"
+    ]
+  },
+  {
+    "_id": "6489f4a1b212814deb2c89e1",
+    "index": 49,
+    "guid": "ac257e5d-dd1f-4a7c-b485-39f8069cb17f",
+    "price": 335.68,
+    "discount": 3,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 3.6,
+    "name": "Product name 49",
+    "about": "Anim magna ea deserunt minim et dolor do fugiat adipisicing cupidatat veniam. Nulla reprehenderit sit quis ex mollit nulla amet enim dolor sit. Duis reprehenderit duis eiusmod mollit sit. Anim adipisicing officia laboris labore sunt incididunt. Voluptate veniam esse occaecat aliquip veniam in dolor duis consequat deserunt et qui. Sint deserunt incididunt qui sit. Id non culpa minim excepteur magna qui magna laborum.\r\n",
+    "tags": [
+      "sint",
+      "laboris",
+      "adipisicing",
+      "anim",
+      "commodo",
+      "quis"
+    ]
+  },
+  {
+    "_id": "6489f4a16e5848062319a3ef",
+    "index": 50,
+    "guid": "8641d374-dcc3-4e8e-b747-9223da7c2d22",
+    "price": 440.54,
+    "discount": 14,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 4,
+    "rating": 1.6,
+    "name": "Product name 50",
+    "about": "Et tempor adipisicing exercitation officia dolor pariatur Lorem magna enim in eiusmod. Labore excepteur ad consectetur nulla ut voluptate nulla elit ut et ea eu exercitation irure. Pariatur non ut quis deserunt cillum aliquip aliquip tempor duis Lorem qui. Sit nisi aliqua ex irure laboris Lorem dolor amet velit proident minim. Lorem id consequat fugiat sunt minim. Sit ea aute aliqua excepteur enim. Enim dolore deserunt veniam dolore elit.\r\n",
+    "tags": [
+      "irure",
+      "commodo",
+      "sint",
+      "cillum",
+      "pariatur",
+      "consequat"
+    ]
+  },
+  {
+    "_id": "6489f4a1909bd766ec8f11c2",
+    "index": 51,
+    "guid": "80916069-6d75-4373-b2c0-35da32b0c0a1",
+    "price": 195.92,
+    "discount": 0,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 3.7,
+    "name": "Product name 51",
+    "about": "Dolor duis duis dolor nostrud do veniam voluptate sunt eiusmod aliquip cillum. Consequat incididunt qui nostrud ipsum exercitation. In enim sit anim voluptate labore eiusmod occaecat cillum nisi id consequat exercitation est. Labore in et pariatur incididunt veniam pariatur enim do ipsum anim culpa. Dolor tempor sunt tempor nisi dolor exercitation elit pariatur est elit aute amet. Duis Lorem aliquip deserunt adipisicing elit ullamco duis id in.\r\n",
+    "tags": [
+      "eu",
+      "esse",
+      "dolore"
+    ]
+  },
+  {
+    "_id": "6489f4a1391b6b5019769acf",
+    "index": 52,
+    "guid": "e0475b84-4ffc-49e4-92e8-8dd946d93299",
+    "price": 98.42,
+    "discount": 40,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 2.1,
+    "name": "Product name 52",
+    "about": "Non consectetur amet veniam duis. Sunt proident laboris eu culpa occaecat enim tempor eu. Quis mollit cupidatat duis magna aute dolore sunt velit nulla mollit. Consectetur ipsum duis elit nisi. Tempor ullamco ad nisi fugiat sint sunt id consequat incididunt velit adipisicing laborum non anim. Aliquip consectetur id reprehenderit adipisicing nostrud consectetur deserunt sunt adipisicing aliquip officia. Esse pariatur qui eiusmod fugiat cillum nulla laboris cillum id aute elit aliquip.\r\n",
+    "tags": [
+      "labore",
+      "duis",
+      "reprehenderit",
+      "eu"
+    ]
+  },
+  {
+    "_id": "6489f4a17d33fedc6cb9d606",
+    "index": 53,
+    "guid": "7b89fe18-1c08-42be-871c-9fdd03f408a6",
+    "price": 758.19,
+    "discount": 54,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 10,
+    "rating": 3.8,
+    "name": "Product name 53",
+    "about": "Aute ipsum ut aliquip amet do ipsum adipisicing culpa sunt et adipisicing. Pariatur in nostrud amet quis aliqua aliquip dolore veniam laboris incididunt occaecat. Consequat velit tempor officia fugiat.\r\n",
+    "tags": [
+      "tempor",
+      "excepteur",
+      "deserunt"
+    ]
+  },
+  {
+    "_id": "6489f4a1194f8391e1d10318",
+    "index": 54,
+    "guid": "258a8752-30a1-4eba-918a-323dcedaf0bc",
+    "price": 639.05,
+    "discount": 25,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 4.5,
+    "name": "Product name 54",
+    "about": "Occaecat laborum sunt ea do dolore tempor exercitation anim anim minim quis. Occaecat cillum aliqua eu laborum qui sunt nisi occaecat veniam anim non labore. Adipisicing cupidatat pariatur exercitation ipsum irure aliquip. Voluptate Lorem incididunt magna adipisicing est veniam labore irure labore exercitation duis occaecat magna. Proident esse aute elit velit in enim excepteur aliqua. Commodo deserunt velit exercitation duis enim ullamco Lorem veniam ipsum sit ad ea ut nisi. Ut anim pariatur do fugiat enim velit.\r\n",
+    "tags": [
+      "sit",
+      "ea",
+      "mollit",
+      "culpa",
+      "incididunt",
+      "do",
+      "occaecat",
+      "eu"
+    ]
+  },
+  {
+    "_id": "6489f4a188b8ad6623eb1e9a",
+    "index": 55,
+    "guid": "3e80c334-5cc2-456d-a607-4cd166d51adc",
+    "price": 323.97,
+    "discount": 17,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 6,
+    "rating": 2,
+    "name": "Product name 55",
+    "about": "Nostrud eiusmod aute veniam enim. Tempor magna anim veniam enim aute nostrud fugiat nulla esse consequat. Aliquip enim culpa ad nisi quis cupidatat consequat. Eu mollit do eiusmod irure cupidatat irure aliquip tempor Lorem id laboris esse.\r\n",
+    "tags": [
+      "Lorem",
+      "dolor",
+      "consequat",
+      "cillum",
+      "labore"
+    ]
+  },
+  {
+    "_id": "6489f4a1d32d4f5a7dd7efe7",
+    "index": 56,
+    "guid": "f40d13ca-3ff2-4633-aa58-b9497cf9dd14",
+    "price": 683.8,
+    "discount": 28,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 2,
+    "rating": 4.5,
+    "name": "Product name 56",
+    "about": "Aliquip voluptate nisi sit aute consectetur cillum est esse ad adipisicing mollit aliqua. Sunt reprehenderit consectetur id officia nostrud excepteur exercitation. Labore sit quis ullamco officia aute est aute. Pariatur ad in adipisicing proident aute anim pariatur labore aute. Sit qui consectetur deserunt dolore voluptate. Commodo veniam elit laborum amet veniam magna culpa anim fugiat deserunt Lorem ipsum. Dolore officia exercitation quis quis.\r\n",
+    "tags": [
+      "laboris",
+      "non",
+      "sint"
+    ]
+  },
+  {
+    "_id": "6489f4a1d376eba7a999f2c9",
+    "index": 57,
+    "guid": "483e0fb9-a3ce-4d28-96b6-9fa9c711544f",
+    "price": 161.19,
+    "discount": 23,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 2,
+    "rating": 4.3,
+    "name": "Product name 57",
+    "about": "In sunt do amet sunt deserunt dolor. Consectetur in sunt excepteur id. Velit sint duis minim ut cillum ex occaecat ut culpa fugiat aliquip. Fugiat dolore laborum velit veniam occaecat nisi ipsum magna aute cupidatat. Aliquip aliqua adipisicing ullamco ex tempor. Laborum fugiat consectetur mollit laboris nulla fugiat tempor ullamco aliquip incididunt. Ullamco ad laborum aliqua aliquip aliqua eiusmod duis sit ut et culpa adipisicing enim officia.\r\n",
+    "tags": [
+      "ea",
+      "veniam",
+      "enim",
+      "excepteur",
+      "magna",
+      "labore",
+      "aliquip",
+      "proident"
+    ]
+  },
+  {
+    "_id": "6489f4a189b68db344145247",
+    "index": 58,
+    "guid": "dc83d384-9504-4c2d-91e2-52cfe3c474be",
+    "price": 571.33,
+    "discount": 2,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 3,
+    "rating": 2.9,
+    "name": "Product name 58",
+    "about": "Dolor sit commodo in ut consectetur irure dolore id proident veniam. Adipisicing labore qui excepteur nulla aliquip. In esse labore labore cupidatat dolore mollit commodo eu mollit in. Labore enim sit velit qui pariatur nostrud et ipsum elit. Excepteur sunt ad sit adipisicing do irure ullamco occaecat sint eu ad.\r\n",
+    "tags": [
+      "officia",
+      "mollit",
+      "voluptate",
+      "in"
+    ]
+  },
+  {
+    "_id": "6489f4a1387d11c6e0f5e17e",
+    "index": 59,
+    "guid": "27359dec-96c1-4ec3-a5de-29bd466ab495",
+    "price": 919.58,
+    "discount": 14,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 3,
+    "rating": 2.8,
+    "name": "Product name 59",
+    "about": "Duis nulla nisi cillum aliquip ullamco nulla adipisicing incididunt aliqua laboris mollit eiusmod id sit. Cillum anim nisi officia nostrud elit ipsum cillum irure dolor. Id ullamco exercitation do nostrud sit consectetur id anim nostrud nostrud ea. Excepteur sunt dolor tempor cillum velit ad ea ex proident ut nostrud velit pariatur. Enim Lorem minim cupidatat excepteur aliquip mollit proident sit sit nulla officia veniam minim nostrud. Incididunt esse deserunt anim consequat minim qui velit qui commodo. Tempor eu nostrud excepteur id eiusmod laboris ea dolor ea magna reprehenderit.\r\n",
+    "tags": [
+      "fugiat",
+      "laborum"
+    ]
+  },
+  {
+    "_id": "6489f4a11bc1ed2d6c7da3ef",
+    "index": 60,
+    "guid": "cd814156-c17a-458f-ba5e-023a8251df4e",
+    "price": 637.88,
+    "discount": 44,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 3,
+    "rating": 4.7,
+    "name": "Product name 60",
+    "about": "Laborum ullamco cupidatat veniam aliquip laboris culpa in consequat incididunt. Deserunt in voluptate aute laboris labore. Nulla amet sunt aliqua labore.\r\n",
+    "tags": [
+      "minim",
+      "qui",
+      "laboris",
+      "id"
+    ]
+  },
+  {
+    "_id": "6489f4a1886542ed38b8143e",
+    "index": 61,
+    "guid": "20fb5622-73fc-4a75-8bf8-b7ddf3e44561",
+    "price": 957.21,
+    "discount": 31,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 2.8,
+    "name": "Product name 61",
+    "about": "Id officia deserunt culpa anim et. Nisi ad velit eu dolor veniam consequat nisi consequat culpa excepteur reprehenderit cillum magna. Ullamco duis quis nulla proident do. Id cillum et sunt consequat reprehenderit ea adipisicing aliqua laboris dolore occaecat. Incididunt amet velit aliquip cupidatat velit est velit. Veniam minim amet laboris nostrud sit est. Aliqua veniam sit in consectetur laboris quis.\r\n",
+    "tags": [
+      "anim",
+      "ipsum",
+      "laborum",
+      "aliquip",
+      "nostrud",
+      "irure"
+    ]
+  },
+  {
+    "_id": "6489f4a15b8edbf64a7c5a1f",
+    "index": 62,
+    "guid": "5404de9a-7802-43fd-88fc-4110e546830b",
+    "price": 962.36,
+    "discount": 50,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 3,
+    "name": "Product name 62",
+    "about": "Consequat ipsum mollit in ipsum non ex. Eu pariatur officia excepteur veniam Lorem. Proident occaecat magna magna esse incididunt minim est. Incididunt adipisicing eu eu qui sunt pariatur incididunt aute nisi deserunt do adipisicing laboris. Ipsum officia minim dolore quis exercitation aute duis occaecat laboris cupidatat et nostrud ea. Est tempor dolore et non elit labore deserunt veniam excepteur nulla reprehenderit Lorem fugiat. Deserunt elit labore duis excepteur eu fugiat reprehenderit sunt elit irure.\r\n",
+    "tags": [
+      "mollit",
+      "dolore",
+      "laborum",
+      "ad",
+      "occaecat",
+      "in"
+    ]
+  },
+  {
+    "_id": "6489f4a11ca6e497a2012801",
+    "index": 63,
+    "guid": "5ecacab5-6dcc-43f1-a2e8-f4bdce0a1d75",
+    "price": 136.45,
+    "discount": 5,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 0,
+    "rating": 3,
+    "name": "Product name 63",
+    "about": "Fugiat dolor fugiat deserunt exercitation exercitation anim Lorem deserunt duis culpa ut exercitation. Aliquip aliqua id minim aliquip sit veniam deserunt aliqua nulla officia amet dolor id. Sunt nostrud amet pariatur ullamco Lorem culpa qui ipsum nisi laboris ipsum sint. Nulla ex velit eu sit sint pariatur id in aliqua minim fugiat.\r\n",
+    "tags": [
+      "nisi",
+      "adipisicing",
+      "excepteur",
+      "aliquip",
+      "ea",
+      "Lorem"
+    ]
+  },
+  {
+    "_id": "6489f4a164906d0f74c3a212",
+    "index": 64,
+    "guid": "1854c7d0-65c9-4dd6-be66-e0063e4c08d9",
+    "price": 947.72,
+    "discount": 14,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 2,
+    "rating": 3.2,
+    "name": "Product name 64",
+    "about": "Ullamco aliqua consequat consectetur voluptate exercitation adipisicing proident incididunt excepteur laborum. Do aliquip proident do aute aute. Dolor sint sint quis qui consequat cupidatat.\r\n",
+    "tags": [
+      "exercitation",
+      "proident",
+      "sit",
+      "cillum",
+      "quis",
+      "consectetur",
+      "cupidatat",
+      "ipsum"
+    ]
+  },
+  {
+    "_id": "6489f4a1e817af606ae876d4",
+    "index": 65,
+    "guid": "955a2e64-3ba5-40fe-8916-294668e50b37",
+    "price": 470.96,
+    "discount": 50,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 2,
+    "rating": 3.4,
+    "name": "Product name 65",
+    "about": "Est esse ut aute id duis incididunt adipisicing incididunt enim adipisicing. Dolore sint minim minim laboris nulla aute. Esse excepteur culpa excepteur laboris veniam. Cupidatat reprehenderit sunt elit pariatur. Ea anim voluptate cillum irure.\r\n",
+    "tags": [
+      "eu",
+      "cupidatat",
+      "cupidatat",
+      "proident",
+      "laboris",
+      "eu"
+    ]
+  },
+  {
+    "_id": "6489f4a196dad2c1e39c9226",
+    "index": 66,
+    "guid": "6c54f2dc-8de7-4f3c-9003-5b3a7dadd745",
+    "price": 339.35,
+    "discount": 63,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 6,
+    "rating": 4.9,
+    "name": "Product name 66",
+    "about": "Ipsum enim est voluptate eu. Ut Lorem sint amet ex. Magna ad aliqua et ullamco mollit. Adipisicing pariatur occaecat aliquip reprehenderit elit. Ullamco magna nostrud consequat consectetur labore ex sit id.\r\n",
+    "tags": [
+      "consectetur",
+      "anim",
+      "aute",
+      "non",
+      "aute",
+      "aute",
+      "consequat",
+      "amet"
+    ]
+  },
+  {
+    "_id": "6489f4a15b13b5af9a12b814",
+    "index": 67,
+    "guid": "63b9c887-55b7-48c1-88e0-6ba27a8125d5",
+    "price": 742.7,
+    "discount": 69,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 9,
+    "rating": 4.8,
+    "name": "Product name 67",
+    "about": "Ad in excepteur dolor ex laboris ex do. Excepteur occaecat sunt esse laborum et magna do est dolore ea et nulla incididunt ut. Consectetur ex cupidatat ut quis ipsum enim laboris culpa veniam tempor cillum. Aliquip magna aute aliquip sunt aliqua aute aliqua. Voluptate tempor dolor incididunt nostrud eiusmod. Magna ipsum minim ea sit ut minim. Ad tempor labore aute aliqua amet ut sunt non mollit.\r\n",
+    "tags": [
+      "aliqua",
+      "id",
+      "deserunt",
+      "aliqua",
+      "est",
+      "reprehenderit"
+    ]
+  },
+  {
+    "_id": "6489f4a182da6ec727ff14b8",
+    "index": 68,
+    "guid": "4421f2b0-bef1-43a9-8243-29e33203648d",
+    "price": 112.9,
+    "discount": 47,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 9,
+    "rating": 3.6,
+    "name": "Product name 68",
+    "about": "Ut reprehenderit Lorem ipsum nulla eu qui excepteur officia occaecat. Non enim est elit aute velit esse duis commodo enim labore. Ipsum adipisicing cillum ex aute nisi aute ad et sunt duis proident. Ut nulla commodo minim qui do commodo minim aliquip elit adipisicing enim incididunt. Amet ea anim anim aliqua labore culpa reprehenderit consequat est proident ea aliquip fugiat.\r\n",
+    "tags": [
+      "nulla",
+      "aliqua",
+      "nostrud",
+      "dolore",
+      "ipsum",
+      "ex"
+    ]
+  },
+  {
+    "_id": "6489f4a1c838d22591c8ef19",
+    "index": 69,
+    "guid": "5815dfca-1782-40fe-9fcc-67afdfcb203e",
+    "price": 351.19,
+    "discount": 54,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 0,
+    "rating": 1.7,
+    "name": "Product name 69",
+    "about": "Est et anim ullamco non nulla laborum magna proident dolor. Ea magna Lorem nisi tempor reprehenderit do ea velit occaecat. Commodo ut nisi ullamco esse cillum amet duis cillum. Dolore dolor officia id occaecat quis dolor fugiat ullamco deserunt proident occaecat. Sit tempor enim dolore anim. Elit nisi minim sint aute et culpa eu ullamco dolore excepteur sint velit.\r\n",
+    "tags": [
+      "commodo",
+      "eiusmod",
+      "ex",
+      "mollit",
+      "commodo"
+    ]
+  },
+  {
+    "_id": "6489f4a18bf3e9aa4881996c",
+    "index": 70,
+    "guid": "250e1eb1-ed0f-4e8c-a8b7-fd7833d9202c",
+    "price": 745.13,
+    "discount": 7,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 2,
+    "rating": 2,
+    "name": "Product name 70",
+    "about": "Ipsum do ea excepteur amet nisi dolore deserunt tempor duis. Laborum ullamco nostrud consequat ea voluptate est veniam eiusmod fugiat cillum velit voluptate voluptate qui. Adipisicing eiusmod esse consequat cillum.\r\n",
+    "tags": [
+      "nulla",
+      "duis",
+      "enim",
+      "aute",
+      "mollit",
+      "aute",
+      "elit",
+      "mollit"
+    ]
+  },
+  {
+    "_id": "6489f4a12f0318876d100424",
+    "index": 71,
+    "guid": "d8a40580-e04c-4f16-934c-50a0fe9e0461",
+    "price": 573.21,
+    "discount": 21,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 7,
+    "rating": 4.1,
+    "name": "Product name 71",
+    "about": "Ut labore adipisicing id quis qui. Ad cillum irure cillum et. Lorem minim proident cupidatat aliquip eu.\r\n",
+    "tags": [
+      "labore",
+      "ad",
+      "aliqua",
+      "sint"
+    ]
+  },
+  {
+    "_id": "6489f4a1c41601207efe4a20",
+    "index": 72,
+    "guid": "d31c2eb8-d9e5-48ca-807d-b33257e4edaa",
+    "price": 796.08,
+    "discount": 69,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 4,
+    "rating": 3.4,
+    "name": "Product name 72",
+    "about": "Labore sint qui aliquip adipisicing labore elit dolor non mollit esse exercitation consectetur. Dolore anim ea ea irure in aliqua elit occaecat quis et commodo. Exercitation ad Lorem ex Lorem laborum Lorem dolor pariatur sint anim duis amet elit non.\r\n",
+    "tags": [
+      "incididunt",
+      "aliquip",
+      "adipisicing",
+      "adipisicing",
+      "ipsum"
+    ]
+  },
+  {
+    "_id": "6489f4a1bfc7f859eb78b310",
+    "index": 73,
+    "guid": "03534a38-b0a0-4632-bceb-03caf5b058fc",
+    "price": 906.22,
+    "discount": 50,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 3,
+    "rating": 3.1,
+    "name": "Product name 73",
+    "about": "Aliquip eiusmod amet reprehenderit pariatur aliquip pariatur sint est fugiat reprehenderit reprehenderit minim id. Anim voluptate sit dolor sit ex cupidatat nostrud tempor laboris minim consequat irure. Est non duis adipisicing cillum adipisicing est do culpa ea.\r\n",
+    "tags": [
+      "sit",
+      "duis",
+      "enim",
+      "laborum",
+      "tempor"
+    ]
+  },
+  {
+    "_id": "6489f4a10f59f93cc246552a",
+    "index": 74,
+    "guid": "0dc86547-c75c-4304-851e-f28261f033f1",
+    "price": 76.9,
+    "discount": 40,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 0,
+    "rating": 5,
+    "name": "Product name 74",
+    "about": "Esse ex commodo ipsum ex dolore velit excepteur. Pariatur sunt ex sunt nulla labore anim esse adipisicing ex velit. Amet commodo in enim voluptate ipsum do commodo irure voluptate amet est irure. Magna id eu cupidatat laborum duis est reprehenderit quis pariatur aliqua consectetur laboris pariatur non. Irure laborum sit laborum aliquip magna ipsum ex sunt consequat fugiat ut tempor anim dolore. Sint ex excepteur nulla dolore mollit cillum proident quis exercitation pariatur mollit.\r\n",
+    "tags": [
+      "enim",
+      "aliquip",
+      "laboris",
+      "duis",
+      "velit",
+      "nulla",
+      "fugiat",
+      "consectetur"
+    ]
+  },
+  {
+    "_id": "6489f4a1c3d40d31be98d9ed",
+    "index": 75,
+    "guid": "870326bc-2272-488e-835e-ab7aa831beaa",
+    "price": 85.7,
+    "discount": 65,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 1.8,
+    "name": "Product name 75",
+    "about": "Est dolor minim id ipsum amet non veniam velit mollit id adipisicing dolore commodo adipisicing. Cupidatat culpa sit sunt quis pariatur nisi proident anim enim enim adipisicing ea incididunt ad. Dolor elit excepteur ad laborum excepteur anim ad veniam ullamco. Eiusmod ex amet minim consectetur nisi mollit exercitation cupidatat culpa ipsum et minim.\r\n",
+    "tags": [
+      "officia",
+      "occaecat",
+      "pariatur",
+      "officia",
+      "tempor",
+      "reprehenderit",
+      "id",
+      "laboris"
+    ]
+  },
+  {
+    "_id": "6489f4a18ad3f8980ca3b111",
+    "index": 76,
+    "guid": "a1416dcc-a6e8-4133-a906-7be7d7a5daa8",
+    "price": 238.99,
+    "discount": 6,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 9,
+    "rating": 4.4,
+    "name": "Product name 76",
+    "about": "Nulla proident minim sunt nostrud mollit laborum duis consectetur pariatur. Ullamco amet pariatur minim anim esse nostrud officia nulla ex culpa magna veniam. Est eu ad deserunt aliqua in reprehenderit laborum tempor elit. Lorem officia proident ut cupidatat dolor sunt veniam enim. Deserunt occaecat irure qui minim non cillum consectetur esse laboris. Commodo officia ea sit fugiat voluptate sunt culpa nulla cillum est eu culpa veniam.\r\n",
+    "tags": [
+      "sit",
+      "veniam",
+      "esse",
+      "in"
+    ]
+  },
+  {
+    "_id": "6489f4a1de91901366c4b26a",
+    "index": 77,
+    "guid": "65cc7567-185d-418c-ba25-1bd3c9ffe0ff",
+    "price": 503.55,
+    "discount": 62,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 5,
+    "rating": 2.6,
+    "name": "Product name 77",
+    "about": "Laborum ipsum nostrud velit aliquip nulla non. Commodo non aute amet ad cupidatat. Sit in ad elit ea ullamco nulla consequat enim dolor id culpa eu. Consequat veniam ex occaecat laborum irure reprehenderit mollit exercitation.\r\n",
+    "tags": [
+      "do",
+      "id",
+      "voluptate"
+    ]
+  },
+  {
+    "_id": "6489f4a143a78fb3595fad3c",
+    "index": 78,
+    "guid": "eda61d11-f907-494b-8d51-3c417d39b567",
+    "price": 223.55,
+    "discount": 35,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 7,
+    "rating": 2,
+    "name": "Product name 78",
+    "about": "In dolore et in consequat pariatur fugiat deserunt ad dolor ex. Officia aliquip duis ex mollit occaecat voluptate ipsum. Anim officia quis tempor velit ex ad sit proident consequat aliquip enim commodo laborum. Duis sunt nostrud aute eu do occaecat eiusmod aliquip elit laborum sit fugiat qui. Quis dolor aliqua nisi est eiusmod elit dolore. Mollit officia laborum laborum aute incididunt nisi. Nulla eu ut id aliqua ullamco esse ipsum ad dolor velit cillum pariatur adipisicing ad.\r\n",
+    "tags": [
+      "mollit",
+      "pariatur",
+      "quis",
+      "reprehenderit",
+      "mollit",
+      "excepteur",
+      "ipsum"
+    ]
+  },
+  {
+    "_id": "6489f4a12d08f96a4c240925",
+    "index": 79,
+    "guid": "ed70bb00-f3d6-444a-a998-ad082cdbcf4e",
+    "price": 108.12,
+    "discount": 63,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 9,
+    "rating": 2.4,
+    "name": "Product name 79",
+    "about": "In commodo aute elit culpa sit ullamco reprehenderit dolor voluptate est mollit duis magna cillum. Amet aliqua officia dolore deserunt officia tempor irure tempor pariatur exercitation est esse pariatur sit. Eiusmod adipisicing ad dolor enim veniam ipsum.\r\n",
+    "tags": [
+      "nulla",
+      "enim",
+      "laboris",
+      "dolor",
+      "ipsum",
+      "ex"
+    ]
+  },
+  {
+    "_id": "6489f4a1dca716e1f663b35f",
+    "index": 80,
+    "guid": "13bf5a84-d05c-420c-970d-58dfa262c65e",
+    "price": 346.75,
+    "discount": 35,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 10,
+    "rating": 4,
+    "name": "Product name 80",
+    "about": "Eiusmod culpa id culpa nisi enim amet deserunt qui ex minim est duis cillum do. Laboris consectetur ad non velit irure ad esse enim exercitation pariatur culpa. Consectetur laboris qui aliquip elit ea exercitation esse.\r\n",
+    "tags": [
+      "enim",
+      "esse",
+      "est"
+    ]
+  },
+  {
+    "_id": "6489f4a165c34b7620b9a797",
+    "index": 81,
+    "guid": "8a5c00d0-7718-4fdd-b204-a7d3d0e97a57",
+    "price": 610.59,
+    "discount": 69,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 0,
+    "rating": 1.7,
+    "name": "Product name 81",
+    "about": "Voluptate consequat nulla cupidatat ex enim magna magna sint anim sunt. Laborum dolor irure non elit. Laborum ea dolore cupidatat ut anim. Ad minim voluptate quis quis aliquip amet occaecat consectetur eu esse elit commodo qui. Nostrud est incididunt sit voluptate minim. Laborum aliqua voluptate adipisicing aliqua pariatur ea amet dolore eu magna esse.\r\n",
+    "tags": [
+      "culpa",
+      "ea",
+      "aliqua",
+      "consequat",
+      "tempor"
+    ]
+  },
+  {
+    "_id": "6489f4a19f61fbd7be6a1bb5",
+    "index": 82,
+    "guid": "8c300735-58ad-464b-8398-51312d680431",
+    "price": 672.2,
+    "discount": 28,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 3,
+    "name": "Product name 82",
+    "about": "Exercitation eu nostrud laborum laborum quis officia exercitation duis. Sit incididunt consequat labore sint deserunt esse enim consequat culpa reprehenderit aliquip cupidatat. Tempor occaecat incididunt occaecat nostrud ad nisi excepteur sint velit excepteur irure exercitation incididunt. Dolore occaecat ipsum eu ad cupidatat magna velit sint mollit id ad incididunt consequat ad. Reprehenderit quis voluptate eiusmod incididunt sint. Aliqua in cillum tempor qui ad est reprehenderit id sit cillum.\r\n",
+    "tags": [
+      "sunt",
+      "non",
+      "commodo"
+    ]
+  },
+  {
+    "_id": "6489f4a1e16e163d918f61f4",
+    "index": 83,
+    "guid": "2d7a011f-399e-4d78-9f8a-9c06ef10c51d",
+    "price": 397.4,
+    "discount": 21,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 1.8,
+    "name": "Product name 83",
+    "about": "Quis dolor adipisicing in amet aute labore elit consequat deserunt sint excepteur incididunt incididunt in. Aliquip est aute qui nulla quis incididunt eiusmod ea. Amet deserunt officia dolor et aliqua aliqua id. Amet excepteur sint sit reprehenderit occaecat commodo duis exercitation. Ea pariatur ut aliquip officia culpa ea eu nostrud do ullamco tempor anim.\r\n",
+    "tags": [
+      "laborum",
+      "aliqua",
+      "commodo",
+      "voluptate",
+      "officia"
+    ]
+  },
+  {
+    "_id": "6489f4a1c734ba6ff5a3f0ee",
+    "index": 84,
+    "guid": "9fbc8c55-e1de-4e9e-8367-b0a009df8adc",
+    "price": 160.89,
+    "discount": 28,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 5,
+    "rating": 4,
+    "name": "Product name 84",
+    "about": "Fugiat consequat ut proident aute qui aliquip deserunt ea esse laboris dolore. Ea laboris pariatur minim Lorem incididunt tempor. Nostrud anim tempor consequat laborum. Nostrud magna ex do excepteur veniam mollit ullamco esse officia enim amet minim incididunt enim. Elit consectetur nulla proident aliqua quis quis consequat deserunt ea ea sint esse nulla.\r\n",
+    "tags": [
+      "commodo",
+      "sunt",
+      "ut",
+      "pariatur",
+      "sit",
+      "in"
+    ]
+  },
+  {
+    "_id": "6489f4a1e2f3d2662c2ddd04",
+    "index": 85,
+    "guid": "28f4a5f8-a7e9-48d0-9ffb-671cf2b0e5bf",
+    "price": 754.99,
+    "discount": 50,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 6,
+    "rating": 4.6,
+    "name": "Product name 85",
+    "about": "Mollit in magna nulla qui veniam excepteur sunt do velit reprehenderit duis Lorem ad. Duis quis cillum non aliquip culpa cupidatat ex voluptate. Minim ut aliqua elit ex elit dolore ad ad eiusmod exercitation amet ad anim deserunt. Esse eiusmod in ullamco exercitation. Ex aliqua nulla deserunt dolore laborum minim eu enim eiusmod Lorem culpa Lorem consequat. Cupidatat Lorem in laborum ipsum sunt mollit esse dolor aliqua sunt mollit reprehenderit.\r\n",
+    "tags": [
+      "labore",
+      "sit"
+    ]
+  },
+  {
+    "_id": "6489f4a1d540cc7953520145",
+    "index": 86,
+    "guid": "83e7ffe7-f786-4f3b-9bee-4be5f89627d5",
+    "price": 783.67,
+    "discount": 64,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 3.8,
+    "name": "Product name 86",
+    "about": "Nostrud mollit elit esse tempor esse sit consectetur dolor cillum dolor nulla Lorem nostrud. Cillum nulla dolor elit est ullamco deserunt nulla eiusmod reprehenderit. Veniam ea culpa tempor elit ipsum tempor aute irure ex. Ut Lorem deserunt sunt id velit laboris velit enim in consectetur. Ipsum est exercitation nostrud veniam quis officia minim sunt ex ut irure.\r\n",
+    "tags": [
+      "ullamco",
+      "enim",
+      "eu",
+      "laboris"
+    ]
+  },
+  {
+    "_id": "6489f4a14a28c7b197aa76e1",
+    "index": 87,
+    "guid": "933e193c-ce25-45fb-bcdc-85c990f28058",
+    "price": 670.2,
+    "discount": 18,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 4,
+    "rating": 4.9,
+    "name": "Product name 87",
+    "about": "Fugiat ullamco sit nulla ipsum consequat irure ex ad voluptate nulla in duis elit. Ex ea ea cillum duis occaecat esse adipisicing qui est cillum duis fugiat. Eu fugiat amet nulla magna anim et qui. Ex culpa laboris amet amet magna proident et ullamco nisi incididunt et consectetur.\r\n",
+    "tags": [
+      "laboris",
+      "minim",
+      "ad"
+    ]
+  },
+  {
+    "_id": "6489f4a1bfb437eed0fa3121",
+    "index": 88,
+    "guid": "c5ae8c7a-1422-4f80-a4ac-730c663aec9e",
+    "price": 680.11,
+    "discount": 17,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 10,
+    "rating": 4.8,
+    "name": "Product name 88",
+    "about": "Officia amet tempor ut eu cupidatat ipsum quis eiusmod velit exercitation aliqua sit. Duis laboris velit minim veniam incididunt. Voluptate ullamco ex cupidatat incididunt irure quis fugiat consectetur. Do ut voluptate ut veniam. Excepteur reprehenderit ullamco in incididunt veniam dolore labore.\r\n",
+    "tags": [
+      "excepteur",
+      "in",
+      "mollit",
+      "reprehenderit",
+      "culpa",
+      "elit"
+    ]
+  },
+  {
+    "_id": "6489f4a1b95124c6b65a6bc2",
+    "index": 89,
+    "guid": "30cabdad-ba6d-4f42-80da-1bc965f83988",
+    "price": 195.32,
+    "discount": 8,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 2,
+    "rating": 2.6,
+    "name": "Product name 89",
+    "about": "Culpa Lorem eiusmod reprehenderit incididunt magna nostrud duis ea nulla aliqua. Consequat quis consectetur aliqua consectetur. Quis elit dolore id ullamco qui. Ullamco quis occaecat est labore ipsum deserunt in dolore sunt.\r\n",
+    "tags": [
+      "pariatur",
+      "voluptate",
+      "exercitation",
+      "eiusmod",
+      "excepteur",
+      "nisi",
+      "veniam",
+      "exercitation"
+    ]
+  },
+  {
+    "_id": "6489f4a1276d66f19eeaf3f2",
+    "index": 90,
+    "guid": "b5ecb7e8-93b9-46da-aaef-b7c4a0873a9c",
+    "price": 612.69,
+    "discount": 41,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 10,
+    "rating": 2.5,
+    "name": "Product name 90",
+    "about": "Consectetur mollit ipsum magna enim minim. Consectetur velit nulla Lorem veniam occaecat. Fugiat Lorem cillum consequat mollit. Sint reprehenderit ad mollit ullamco elit mollit consequat deserunt duis sit aute. Voluptate laboris incididunt minim sunt dolore fugiat aliqua nisi et reprehenderit elit anim.\r\n",
+    "tags": [
+      "ad",
+      "non",
+      "elit",
+      "consectetur"
+    ]
+  },
+  {
+    "_id": "6489f4a181808920e406794e",
+    "index": 91,
+    "guid": "1cb60707-8d31-4b87-b59a-7d4dfc6d5b1b",
+    "price": 87.37,
+    "discount": 25,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 5,
+    "rating": 2.7,
+    "name": "Product name 91",
+    "about": "Deserunt exercitation sint Lorem ullamco nostrud Lorem. Sit ut excepteur occaecat ipsum eiusmod. Consequat in anim nisi quis. Incididunt anim et excepteur dolor ex irure minim ea exercitation. Ea quis labore sint quis labore ullamco mollit excepteur sit elit mollit cillum duis. Ut pariatur reprehenderit mollit esse in. Cupidatat pariatur ipsum aute dolor excepteur occaecat consectetur eu ad est.\r\n",
+    "tags": [
+      "sunt",
+      "excepteur",
+      "anim",
+      "ex",
+      "sunt",
+      "consequat",
+      "minim",
+      "adipisicing"
+    ]
+  },
+  {
+    "_id": "6489f4a1ef8eaef9de02d0a9",
+    "index": 92,
+    "guid": "1eacf319-9e90-45a5-81d9-d68b85fbe6d0",
+    "price": 735.42,
+    "discount": 19,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 2,
+    "rating": 1.6,
+    "name": "Product name 92",
+    "about": "Et ad sint aliqua non. Consequat id nulla duis elit dolore officia nostrud sunt dolore cillum proident deserunt. Exercitation voluptate enim non esse nulla aute veniam velit nisi Lorem. Ea amet nisi dolor duis aute dolore eiusmod in velit irure. In enim velit labore dolore magna irure. Magna reprehenderit in ea cillum non pariatur do adipisicing pariatur aliquip sit ad.\r\n",
+    "tags": [
+      "esse",
+      "irure",
+      "magna",
+      "quis",
+      "est",
+      "sint",
+      "dolore",
+      "culpa"
+    ]
+  },
+  {
+    "_id": "6489f4a1a5feccbeacc83099",
+    "index": 93,
+    "guid": "6f09150f-79d1-4c57-9da7-3d47f77d9edb",
+    "price": 380.34,
+    "discount": 65,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 1,
+    "rating": 4.7,
+    "name": "Product name 93",
+    "about": "Consectetur officia minim incididunt adipisicing do. Lorem fugiat quis nostrud elit id. Ipsum esse sunt fugiat eu mollit exercitation. Tempor nostrud non nisi ut et commodo nisi eiusmod dolor. Esse aliqua aliquip pariatur est sunt. Voluptate pariatur nostrud anim quis labore labore enim in ex nulla officia voluptate. Laboris sint occaecat ex id veniam ex ex elit nulla.\r\n",
+    "tags": [
+      "aute",
+      "pariatur",
+      "culpa",
+      "ut",
+      "amet",
+      "adipisicing",
+      "ea"
+    ]
+  },
+  {
+    "_id": "6489f4a14768248a7c024713",
+    "index": 94,
+    "guid": "9e4f42d9-bb2d-43e7-9ad1-2d3f729d1f11",
+    "price": 645.85,
+    "discount": 22,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 2,
+    "name": "Product name 94",
+    "about": "Occaecat elit enim laborum officia occaecat ipsum nulla eiusmod sint commodo. Culpa laboris minim pariatur est ut eiusmod et tempor et nulla adipisicing labore. Ea labore anim ea esse aliqua. Adipisicing ex culpa quis non eiusmod enim esse ex exercitation deserunt nisi enim.\r\n",
+    "tags": [
+      "sunt",
+      "quis"
+    ]
+  },
+  {
+    "_id": "6489f4a1341e9a06e98184de",
+    "index": 95,
+    "guid": "fd5b6a12-a8ed-42fc-8822-03aa96617096",
+    "price": 311.43,
+    "discount": 1,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 0,
+    "rating": 1.3,
+    "name": "Product name 95",
+    "about": "Ullamco eu culpa ea cillum enim reprehenderit ullamco laboris aliqua cillum tempor est Lorem ipsum. Ipsum commodo quis ad anim reprehenderit reprehenderit enim elit proident. Culpa eu id aute cupidatat sint cillum nisi pariatur minim veniam sunt. Voluptate deserunt anim magna Lorem ea adipisicing officia deserunt Lorem cillum cupidatat eu enim eu.\r\n",
+    "tags": [
+      "mollit",
+      "nulla",
+      "aute",
+      "nulla"
+    ]
+  },
+  {
+    "_id": "6489f4a196160bb177ee62d6",
+    "index": 96,
+    "guid": "d6208cbc-672a-4290-8d77-e46b14988626",
+    "price": 654.86,
+    "discount": 57,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 0,
+    "rating": 3.7,
+    "name": "Product name 96",
+    "about": "Incididunt sunt nulla Lorem duis. Esse velit amet esse cillum do incididunt aliquip. Duis proident aliquip sit incididunt amet nulla reprehenderit ut exercitation id tempor. Esse reprehenderit et tempor exercitation magna ullamco qui dolore laborum amet. Aliqua in mollit proident minim.\r\n",
+    "tags": [
+      "aute",
+      "dolore",
+      "labore",
+      "occaecat"
+    ]
+  },
+  {
+    "_id": "6489f4a1ca3c02b70d2f6479",
+    "index": 97,
+    "guid": "5693038e-55f0-4616-8665-b380eea0308a",
+    "price": 425.18,
+    "discount": 4,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 3.2,
+    "name": "Product name 97",
+    "about": "Culpa ut anim eu Lorem cupidatat reprehenderit elit cillum dolor pariatur ex eu laboris. Mollit nostrud cillum esse ipsum sint consectetur excepteur nisi incididunt in ex sint anim. Consequat laboris exercitation ad id excepteur cupidatat in cupidatat anim.\r\n",
+    "tags": [
+      "ipsum",
+      "aliquip",
+      "fugiat",
+      "ex",
+      "est"
+    ]
+  },
+  {
+    "_id": "6489f4a12be65f0eea5e75cf",
+    "index": 98,
+    "guid": "eaea7595-6633-4b32-8cb0-6a5af15e443a",
+    "price": 554.03,
+    "discount": 20,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 7,
+    "rating": 4.3,
+    "name": "Product name 98",
+    "about": "In laborum adipisicing duis adipisicing in cillum laborum ea cillum. Deserunt nulla eu ad magna non sunt sunt labore pariatur cupidatat nostrud. Mollit dolore cillum Lorem tempor proident magna est culpa. Laboris dolor sint consectetur et nulla labore eiusmod commodo commodo ullamco. Occaecat commodo Lorem elit nisi sint nulla est. Consequat enim duis ut do et laboris aute ea consequat laborum consectetur.\r\n",
+    "tags": [
+      "minim",
+      "aute",
+      "ex",
+      "dolore",
+      "cillum"
+    ]
+  },
+  {
+    "_id": "6489f4a1d0f3a4357aa56e69",
+    "index": 99,
+    "guid": "cabf1265-0169-4d06-8059-0335e1bfe390",
+    "price": 171.28,
+    "discount": 7,
+    "picture": "http://placehold.it/512x512",
+    "availablePieces": 8,
+    "rating": 3.2,
+    "name": "Product name 99",
+    "about": "Incididunt nulla incididunt exercitation irure magna excepteur cupidatat ut ea consectetur et excepteur culpa. Aliqua sint fugiat commodo proident culpa laboris aliquip. Qui laborum nulla incididunt sit laboris amet qui. Eu aliqua excepteur minim et nisi exercitation eu mollit anim. Sunt id sit id consectetur qui esse ullamco sint irure deserunt quis sint est ad. Lorem enim pariatur duis consequat nulla cillum duis cillum magna exercitation.\r\n",
+    "tags": [
+      "nulla",
+      "ad"
+    ]
+  }
+]
